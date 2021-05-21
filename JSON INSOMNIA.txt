@@ -1,0 +1,27 @@
+
+JSON CADASTRAR USER 
+{
+	"name": "Bruno de Teste",
+	"email" : "icestone@gmail.com"
+}
+
+
+
+
+JSON CADASTRAR SURVEY
+{
+	"title": "PESQUISA DE SATISFAÇÃO DE USUÁRIOS",
+	"description" : "Olá meu caro usuário! Essa é uma pesquisa de satisfação teste desenvolvida por: Bruno Gomes"
+}
+
+
+
+
+
+JSON ENVIAR EMAIL 
+{
+	"email": "icestone@gmail.com",
+	"survey_id": "d97c2908-66fc-4c07-bf9b-3932da53a3de"
+}
+
+
