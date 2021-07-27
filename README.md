@@ -1,5 +1,5 @@
 # NPS
-Projeto desenvolvvido durante NLW 4º edição da Rocetseat. 
+Projeto desenvolvvido durante NLW 4º edição da Rocketseat. 
 Trata-se de um NPS mail, onde é enviado para usuarios, algumas pesquisas por email escolhidas e cadastradas pelo usuario e o cliente que recebe fornece notas de 1 a 10 sobre a pesquisa enviada.
 
 
